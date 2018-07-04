@@ -1,0 +1,8 @@
+demoli3一种基于参考像素多分类的QDCT域大容量H.264AVC视频信息隐藏算法
+本程序是：
+一种基于参考像素多分类的QDCT域大容量H.264AVC视频信息隐藏算法
+的应用程序
+
+在workpsace中用：
+编码 ../lencod.exe -d ../encoder.cfg secert.txt
+解码 ../ldecod.exe extract.txt

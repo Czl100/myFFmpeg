@@ -1,0 +1,8 @@
+demoli2基于3D低码率增长的H.264AVC视频信息隐藏算法
+本程序是：
+第3章	基于3D低码率增长的H.264/AVC视频信息隐藏算法
+的应用程序
+
+在workpsace中用：
+编码 ../lencod.exe -d ../encoder.cfg secert.txt
+解码 ../ldecod.exe extract.txt

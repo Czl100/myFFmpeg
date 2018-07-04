@@ -1,0 +1,3 @@
+在workpsace中用：
+编码 ../lencod.exe -d ../encoder.cfg secert.txt
+解码 ../ldecod.exe extract.txt

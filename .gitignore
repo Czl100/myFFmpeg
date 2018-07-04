@@ -1,0 +1,11 @@
+Debug/
+Release/
+3parts/
+test/
+tmp/
+ffmpeg
+*.opensdf
+*.sdf
+*.264
+*.yuv
+*.avi

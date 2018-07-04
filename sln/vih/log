@@ -1,0 +1,16 @@
+Message:========================================================================================= File: Line:0 Function: DateTime???? ???? 14 13:52:29 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime???? ???? 14 13:52:30 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime???? ???? 14 13:52:30 2018
+Message:[Exception] algoritum configuration open error File: Line:0 Function: DateTime???? ???? 14 13:52:30 2018
+Message:========================================================================================= File: Line:0 Function: DateTime???? ???? 23 11:16:09 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime???? ???? 23 11:16:14 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime???? ???? 23 11:16:14 2018
+Message:[Exception] tmp dir not exists File: Line:0 Function: DateTime???? ???? 23 11:16:14 2018
+Message:========================================================================================= File: Line:0 Function: DateTime??? ???? 26 10:32:34 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime??? ???? 26 10:32:37 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime??? ???? 26 10:32:37 2018
+Message:[Exception] tmp dir not exists File: Line:0 Function: DateTime??? ???? 26 10:32:38 2018
+Message:========================================================================================= File: Line:0 Function: DateTime??? ???? 26 10:33:55 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime??? ???? 26 10:33:55 2018
+Message:QWidget::setLayout: Attempting to set QLayout "" on QGroupBox "", which already has a layout File: Line:0 Function: DateTime??? ???? 26 10:33:55 2018
+Message:[Exception] tmp dir not exists File: Line:0 Function: DateTime??? ???? 26 10:33:55 2018
